@@ -1,2 +1,26 @@
-### Hello world
-Just trying out Github Pages, it's amazing!
+Let's try to reboot this page once again, as usual every other year.
+
+### Fighting the Behemoth
+> He is the first of God’s works [...]
+  He can restrain the river from its rushing;
+  He is confident the stream will gush at his command.
+  Can he be taken by his eyes?
+  Can his nose be pierced by hooks?
+
+Job, 40:15.23-24
+
+Last week I did a lighting talk at [Code BEAM EU](https://codebeameurope.com/) in Berlin!
+The focus of the talk was the current refactoring process of an outrageous piece of code
+in the [Astarte](https://github.com/astarte-platform) codebase, the ill-famed [impl.ex](https://github.com/astarte-platform/astarte/blob/master/apps/astarte_data_updater_plant/lib/astarte_data_updater_plant/data_updater/impl.ex).
+
+Largely written somewhere between 5 and 6 years ago, when most of the Astarte team was learning
+Elixir (*the first of Astarte's works*), it is a perfect example of how to write code that works, runs fast, can be relied upon (*confident the stream will gush at his command*)
+but is also absolutely unreadable and dreadful to maintain.
+Being the maintainer, I had to do something!
+
+I will make the slides available in the next days, for the moment the brief summary of this
+WIP refactoring is:
+- Divide the functional, (mostly) pure core from the imperative shell: keep domain complexity separate (and typed, and tested) from the machinery complexity
+- As in everything, big and disomogeneous state is a mess: keep it as little as feasible, possibly also by splitting it in its different subcomponents
+- Elixir's `with` work better if there is no `else`, keeping the code monadic
+- Tests of the functional core should be readable, repeatable and randomized
