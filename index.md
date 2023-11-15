@@ -1,5 +1,17 @@
 Let's try to reboot this page once again, as usual every other year.
 
+### Erlang, Elixir, Gleam and Friends devroom @ FOSDEM 2024
+
+We’re excited to announce that the Erlang, Elixir, Gleam and Friends Devroom is back for FOSDEM 2024!
+
+[FOSDEM](https://fosdem.org/2024/) is one of the largest conferences in the world and fully dedicated to open-source software.
+It that wasn't enought, it's also free!
+
+You can find the Call for Talks [here](https://beam-fosdem.dev/call-for-talks/).
+Me and [Davide Bettio](https://blog.uninstall.it/) are the devroom managers, with many more helping us, especially [Riccardo Binetti](https://rbino.com/)!
+
+Whether you’re submitting your talk proposal, or you’re just attending the event, we hope to see you in Brussels in February on the 3rd of February, 2024!
+
 ### Fighting the Behemoth
 > He is the first of God’s works [...]
   He can restrain the river from its rushing;
