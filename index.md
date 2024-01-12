@@ -1,5 +1,13 @@
 Let's try to reboot this page once again, as usual every other year.
 
+### Building an interpreter for a simple language @ UniBo
+I was invited to give a three-hour talk/demo for the bachelor Programming Languages course at UniBo, showcasing how to build an interpreter for a small language.
+The `Demo` language is a concurrent extension to the classic WHILE language, adding procedures and concurrent execution go-style.
+I used Java as host language and ANTLR 4 as a parser generator.
+The most interesting part in my view is however describing how to implement the language semantics starting from a formal one in the structural operational style (big step variant).
+Slides describing the construction process, the semantics and some interesting details (nontermination modelled as an infinite proof) will be made available.
+The code can be found [here](https://github.com/annopaolo/demo).
+
 ### Erlang, Elixir, Gleam and Friends devroom @ FOSDEM 2024
 
 We’re excited to announce that the Erlang, Elixir, Gleam and Friends Devroom is back for FOSDEM 2024!
