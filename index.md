@@ -1,5 +1,20 @@
 Let's try to reboot this page once again, as usual every other year.
 
+### BEAM me up, Scotty! @ FOSDEM 2024
+I delivered an introductory talk on the superpowers of the BEAM at the
+["Erlang, Elixir, Gleam and Friends" devroom](https://beam-fosdem.dev/2024-edition/) during
+[FOSDEM 2024](https://fosdem.org/2024).
+
+The purpose of the talk was to introduce the BEAM/OTP ecosystem to the audience,
+in order to warm them up for the more advanced talks that followed.
+You can find the the recording [here](https://beam-fosdem.dev/2024-edition/), along with the [slide deck I used](https://docs.google.com/presentation/d/e/2PACX-1vTRYeEK-f4TGD0KyNjxCjpGuVyJBH3MS9zopHWHSgXYzPzKBnCbYYe11H-yTxvqVnrVlewgW9Ad3dxt/pub?start=false&loop=false&delayms=15000).
+
+It was a joy seeing a packed room interested in what still seems to be a niche set of technlogies -
+despite being years ahead in the concurrent/distributed systems field and having been
+an inspiration to many mainstream frameworks, tools and languages.
+
+Finally, a huge thank you to [all the devroom speakers](https://beam-fosdem.dev/2024-edition/), see you next year!
+
 ### Building an interpreter for a simple language @ UniBo
 I was invited to give a three-hour talk/demo for the bachelor Programming Languages course at UniBo, showcasing how to build an interpreter for a small language.
 The `Demo` language is a concurrent extension to the classic WHILE language, adding procedures and concurrent execution go-style.
