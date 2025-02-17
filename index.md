@@ -1,5 +1,22 @@
 Let's try to reboot this page once again, as usual every other year.
 
+### And now for something completely different: a taste of Biblical Hebrew
+
+I recently started diving deeper into the quite unknown Biblical Hebrew language,
+thanks to a course organized by the [Bibbia Aperta](http://www.bibbiaperta.it/) association in Padova.
+Other than being an interesting topic per se, especially when looked through the lenses of contemporary culture,
+a number of fun facts do come up even after only a few months of study.
+
+For example, it is common in the Hebrew Bible - and thus in the Christian one too - to use the plural form
+for objects or beings that are singular, but huge. The plural becomes the augmentative form of a name.
+It happens, for example, for the word שָׁמַיִם in Genesis 1,1, that literally
+would mean more or less "Heaven**s**" but is interpreted as "Heaven" ("In the beginning God created the heavens..."):
+heaven is so big that it can't be contained in just a singular form!
+
+Other than that, my five readers might remember a talk I gave some time ago titled ["Fighting the Behemoth"](#fighting-the-behemoth).
+Well, turns out that also the Behemoth is too big for a singular form!
+The word "behemoth" בְּהֵמוֹת is the plural of the word "behemah" בְּהֵמַה, meaning "large animal", like a cow or a horse. The biblical monster is a HUGE large animal!
+
 ### BEAM me up, Scotty! @ FOSDEM 2024
 I delivered an introductory talk on the superpowers of the BEAM at the
 ["Erlang, Elixir, Gleam and Friends" devroom](https://beam-fosdem.dev/2024-edition/) during
